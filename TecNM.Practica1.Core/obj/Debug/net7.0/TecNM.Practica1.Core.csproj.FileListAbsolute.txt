@@ -1,0 +1,11 @@
+C:\Users\Torre\OneDrive\Documentos\Universidad\Semestre 8\Tecnologias web Multiplataforma\Parcial 1\TecNM.Practica1\TecNM.Practica1.Core\obj\Debug\net7.0\TecNM.Practica1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Torre\OneDrive\Documentos\Universidad\Semestre 8\Tecnologias web Multiplataforma\Parcial 1\TecNM.Practica1\TecNM.Practica1.Core\obj\Debug\net7.0\TecNM.Practica1.Core.AssemblyInfoInputs.cache
+C:\Users\Torre\OneDrive\Documentos\Universidad\Semestre 8\Tecnologias web Multiplataforma\Parcial 1\TecNM.Practica1\TecNM.Practica1.Core\obj\Debug\net7.0\TecNM.Practica1.Core.AssemblyInfo.cs
+C:\Users\Torre\OneDrive\Documentos\Universidad\Semestre 8\Tecnologias web Multiplataforma\Parcial 1\TecNM.Practica1\TecNM.Practica1.Core\obj\Debug\net7.0\TecNM.Practica1.Core.csproj.CoreCompileInputs.cache
+C:\Users\Torre\OneDrive\Documentos\Universidad\Semestre 8\Tecnologias web Multiplataforma\Parcial 1\TecNM.Practica1\TecNM.Practica1.Core\bin\Debug\net7.0\TecNM.Practica1.Core.deps.json
+C:\Users\Torre\OneDrive\Documentos\Universidad\Semestre 8\Tecnologias web Multiplataforma\Parcial 1\TecNM.Practica1\TecNM.Practica1.Core\bin\Debug\net7.0\TecNM.Practica1.Core.dll
+C:\Users\Torre\OneDrive\Documentos\Universidad\Semestre 8\Tecnologias web Multiplataforma\Parcial 1\TecNM.Practica1\TecNM.Practica1.Core\bin\Debug\net7.0\TecNM.Practica1.Core.pdb
+C:\Users\Torre\OneDrive\Documentos\Universidad\Semestre 8\Tecnologias web Multiplataforma\Parcial 1\TecNM.Practica1\TecNM.Practica1.Core\obj\Debug\net7.0\TecNM.Practica1.Core.dll
+C:\Users\Torre\OneDrive\Documentos\Universidad\Semestre 8\Tecnologias web Multiplataforma\Parcial 1\TecNM.Practica1\TecNM.Practica1.Core\obj\Debug\net7.0\refint\TecNM.Practica1.Core.dll
+C:\Users\Torre\OneDrive\Documentos\Universidad\Semestre 8\Tecnologias web Multiplataforma\Parcial 1\TecNM.Practica1\TecNM.Practica1.Core\obj\Debug\net7.0\TecNM.Practica1.Core.pdb
+C:\Users\Torre\OneDrive\Documentos\Universidad\Semestre 8\Tecnologias web Multiplataforma\Parcial 1\TecNM.Practica1\TecNM.Practica1.Core\obj\Debug\net7.0\ref\TecNM.Practica1.Core.dll

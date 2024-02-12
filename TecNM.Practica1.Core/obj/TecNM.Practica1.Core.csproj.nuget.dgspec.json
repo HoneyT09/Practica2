@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Torre\\OneDrive\\Documentos\\Universidad\\Semestre 8\\Tecnologias web Multiplataforma\\Parcial 1\\TecNM.Practica1\\TecNM.Practica1.Core\\TecNM.Practica1.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Torre\\OneDrive\\Documentos\\Universidad\\Semestre 8\\Tecnologias web Multiplataforma\\Parcial 1\\TecNM.Practica1\\TecNM.Practica1.Core\\TecNM.Practica1.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Torre\\OneDrive\\Documentos\\Universidad\\Semestre 8\\Tecnologias web Multiplataforma\\Parcial 1\\TecNM.Practica1\\TecNM.Practica1.Core\\TecNM.Practica1.Core.csproj",
+        "projectName": "TecNM.Practica1.Core",
+        "projectPath": "C:\\Users\\Torre\\OneDrive\\Documentos\\Universidad\\Semestre 8\\Tecnologias web Multiplataforma\\Parcial 1\\TecNM.Practica1\\TecNM.Practica1.Core\\TecNM.Practica1.Core.csproj",
+        "packagesPath": "C:\\Users\\Torre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Torre\\OneDrive\\Documentos\\Universidad\\Semestre 8\\Tecnologias web Multiplataforma\\Parcial 1\\TecNM.Practica1\\TecNM.Practica1.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Torre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
